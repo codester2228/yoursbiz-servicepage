@@ -1,0 +1,12 @@
+.App {
+  position: absolute;
+  width: 1269px;
+
+  left: 50%;
+  top: 7%;
+  transform: translate(-50%, -50%);
+  background: #ffffff;
+
+  border-radius: 0.761716px;
+  background-position: fixed;
+}

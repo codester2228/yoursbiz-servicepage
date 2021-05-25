@@ -1,0 +1,146 @@
+.navbar {
+  height: 66px;
+}
+
+.home {
+  position: absolute;
+  display: flex;
+  width: 52.3px;
+  height: 18.77px;
+  left: 389px;
+  top: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+  color: #37474f;
+}
+
+.portfolio {
+  position: absolute;
+  width: 68px;
+  height: 18.95px;
+  left: 472px;
+  top: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #37474f;
+}
+
+.wedding {
+  position: absolute;
+  width: 116px;
+  height: 18.95px;
+  left: 588px;
+  top: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #37474f;
+}
+
+.services {
+  position: absolute;
+  width: 96px;
+  height: 18.95px;
+  left: 731px;
+  top: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #263238;
+}
+
+.quotation {
+  position: absolute;
+  width: 112px;
+  height: 19px;
+  left: 845px;
+  top: 31px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #37474f;
+}
+.contact {
+  position: absolute;
+  width: 82px;
+  height: 18.95px;
+  left: 990px;
+  top: 30.99px;
+
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-transform: uppercase;
+
+  color: #37474f;
+}
+
+.login {
+  position: absolute;
+  width: 92px;
+  height: 30px;
+  left: 1113px;
+  top: 22px;
+  background: #c91782;
+  padding-top: 5px;
+
+  border-radius: 15.866px;
+  font-family: Poppins;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 18px;
+  text-align: center;
+  color: #ffffff;
+}
+
+.logo {
+  position: absolute;
+  width: 100px;
+  height: 70.7px;
+  left: 45px;
+  top: 2px;
+}
+.vector {
+  position: absolute;
+  width: 8px;
+  height: 5px;
+  left: 793px;
+  top: 36px;
+  border: 2px solid #263238;
+}
+.person {
+  position: absolute;
+  left: 88.52%;
+  width: 1%;
+  top: 48.12%;
+  z-index: 100;
+}
